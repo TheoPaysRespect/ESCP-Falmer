@@ -62,7 +62,6 @@
 					<ESCP_Industrial_FalmerTown_Trader>1</ESCP_Industrial_FalmerTown_Trader>
 				</traders>
 				<carriers>
-					<MorrowRim_Guar MayRequireAnyOf="SirMashedPotato.MorrowRim,SirMashedPotato.MorrowRim.JustTheAnimals">5</MorrowRim_Guar>
 					<Muffalo>6</Muffalo>
 					<Dromedary>5</Dromedary>
 					<Alpaca>2</Alpaca>

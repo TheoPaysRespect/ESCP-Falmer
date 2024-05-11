@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
 	<name>ESCP - Falmer</name>
-	<packageId>SirMashedPotato.ESCP.Falmer</packageId>
-	<author>SirMashedPotato</author>
+	<packageId>ESCP.ESCP.Falmer</packageId>
+	<author>ESCP</author>
 	<modVersion>1.1.0</modVersion>
 	<supportedVersions>
 		<li>1.4</li>
@@ -23,19 +23,14 @@
 			<steamWorkshopUrl>steam://url/CommunityFilePage/839005762</steamWorkshopUrl>
 		</li>
 		<li>
-			<packageId>SirMashedPotato.ESCP.RaceTools</packageId>
+			<packageId>ESCP.ESCP.RaceTools</packageId>
 			<displayName>ESCP - Race Tools</displayName>
 			<steamWorkshopUrl>steam://url/CommunityFilePage/2681814436</steamWorkshopUrl>
-			<downloadUrl>https://github.com/SirMashedPotato/ESCP-Race_Tools</downloadUrl>
+			<downloadUrl>https://github.com/TheoPaysRespect/ESCP-Race_Tools</downloadUrl>
 		</li>
 	</modDependencies>
 	<loadAfter>
-		<li>SirMashedPotato.ESCP.RaceTools</li>
-		<li>SirMashedPotato.ESCP.IndustrialFactionsDummy</li>
+		<li>ESCP.ESCP.RaceTools</li>
+		<li>ESCP.ESCP.IndustrialFactionsDummy</li>
 	</loadAfter>
-	<incompatibleWith>
-		<li>SirMashedPotato.MorrowRim.FalmerRace</li>
-		<li>SirMashedPotato.MorrowRim.FalmerFactions</li>
-		<li>SirMashedPotato.MorrowRim.HDMerHeads</li>
-	</incompatibleWith>
 </ModMetaData>
