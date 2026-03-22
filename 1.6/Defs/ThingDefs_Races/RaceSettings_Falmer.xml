@@ -39,6 +39,21 @@
 					<pawnKindEntries>
 						<li>
 							<kindDefs>
+								<li>ESCP_FalmerPlayerPawnKind_Medieval</li>
+							</kindDefs>
+							<chance>1.0</chance>
+						</li>
+					</pawnKindEntries>
+					<factionDefs>
+						<li Mayrequire = "dankpyon.medieval.overhaul">DankPyon_PlayerKingdom</li>
+						<li Mayrequire = "dankpyon.medieval.overhaul">DankPyon_LoneWolf</li>
+						<li Mayrequire = "dankpyon.medieval.overhaul">DankPyon_MercenaryCompany</li>
+					</factionDefs>
+				</li>
+				<li>
+					<pawnKindEntries>
+						<li>
+							<kindDefs>
 								<li>ESCP_FalmerPlayerPawnKind_Tribal</li>
 							</kindDefs>
 							<chance>0.1</chance>
@@ -74,6 +89,21 @@
 					</pawnKindEntries>
 					<factionDefs>
 						<li>ESCP_FalmerPlayerFaction_Medieval</li>
+					</factionDefs>
+				</li>
+				<li>
+					<pawnKindEntries>
+						<li>
+							<kindDefs>
+								<li>ESCP_FalmerPlayerPawnKind_Medieval</li>
+							</kindDefs>
+							<chance>1.0</chance>
+						</li>
+					</pawnKindEntries>
+					<factionDefs>
+						<li Mayrequire = "dankpyon.medieval.overhaul">DankPyon_PlayerKingdom</li>
+						<li Mayrequire = "dankpyon.medieval.overhaul">DankPyon_LoneWolf</li>
+						<li Mayrequire = "dankpyon.medieval.overhaul">DankPyon_MercenaryCompany</li>
 					</factionDefs>
 				</li>
 				<li>
