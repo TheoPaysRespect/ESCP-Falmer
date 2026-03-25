@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8"?>
 <Defs>
 	<AlienRace.RaceSettings>
 		<defName>ESCP_FalmerRaceSettings</defName>
@@ -35,7 +35,7 @@
 						<li>PlayerColony</li>
 					</factionDefs>
 				</li>
-				<li>
+				<li MayRequire="dankpyon.medieval.overhaul">
 					<pawnKindEntries>
 						<li>
 							<kindDefs>
@@ -45,9 +45,9 @@
 						</li>
 					</pawnKindEntries>
 					<factionDefs>
-						<li Mayrequire = "dankpyon.medieval.overhaul">DankPyon_PlayerKingdom</li>
-						<li Mayrequire = "dankpyon.medieval.overhaul">DankPyon_LoneWolf</li>
-						<li Mayrequire = "dankpyon.medieval.overhaul">DankPyon_MercenaryCompany</li>
+						<li>DankPyon_PlayerKingdom</li>
+						<li>DankPyon_LoneWolf</li>
+						<li>DankPyon_MercenaryCompany</li>
 					</factionDefs>
 				</li>
 				<li>
@@ -91,7 +91,7 @@
 						<li>ESCP_FalmerPlayerFaction_Medieval</li>
 					</factionDefs>
 				</li>
-				<li>
+				<li MayRequire="dankpyon.medieval.overhaul">
 					<pawnKindEntries>
 						<li>
 							<kindDefs>
@@ -101,9 +101,9 @@
 						</li>
 					</pawnKindEntries>
 					<factionDefs>
-						<li Mayrequire = "dankpyon.medieval.overhaul">DankPyon_PlayerKingdom</li>
-						<li Mayrequire = "dankpyon.medieval.overhaul">DankPyon_LoneWolf</li>
-						<li Mayrequire = "dankpyon.medieval.overhaul">DankPyon_MercenaryCompany</li>
+						<li>DankPyon_PlayerKingdom</li>
+						<li>DankPyon_LoneWolf</li>
+						<li>DankPyon_MercenaryCompany</li>
 					</factionDefs>
 				</li>
 				<li>
